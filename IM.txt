@@ -1,0 +1,17 @@
+Incident Management
+
+1. What is Incident Management?
+
+Incidents can cause a host of problems for organizations, from temporary downtime to data loss. When done well, incident management can provide an efficient and effective way to fix all kinds of incidents with little disruption and in a way that leaves organizations more prepared for the next incident.
+
+
+2. What are the different types of Incidents?
+
+Normal Incidents
+Emergency Incidents
+Standard Incidents
+
+
+3. What are the different types of SLAs?
+
+What are the three types of SLAs? There are three basic types of SLAs: customer, internal and multilevel service-level agreements. A customer service-level agreement is between a service provider and its external customers. It is sometimes called an external service agreement.
